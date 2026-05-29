@@ -6,7 +6,7 @@ End-to-end ETL pipeline built on Databricks using PySpark, Delta Lake, and Unity
 
 ## Architecture
 
-![Architecture](images/architecture.png)
+![Architecture](https://raw.githubusercontent.com/Dextroxe/Databricks-ETL-Pipeline/main/Project.png)
 
 ---
 
@@ -51,7 +51,7 @@ The pipeline processes CSV-based datasets through multiple transformation stages
 
 ## Pipeline Workflow
 
-![Pipeline Workflow](images/pipeline.png)
+![Pipeline Workflow](https://raw.githubusercontent.com/Dextroxe/Databricks-ETL-Pipeline/main/jobPipeline.png)
 
 ---
 
@@ -97,7 +97,6 @@ The pipeline processes CSV-based datasets through multiple transformation stages
 .
 ├── notebooks/
 ├── datasets/
-├── images/
 ├── README.md
 ```
 
