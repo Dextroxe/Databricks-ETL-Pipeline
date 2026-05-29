@@ -1,0 +1,16 @@
+Employee ID,First Name,Last Name,Email,Department,Salary,Hire Date,SSN,Employee ID
+EMP001,John,Doe,john.doe@example.com,Engineering,"$85,000.00",2022-01-15,123-45-6789,EMP001
+EMP002,Jane,Smith,jane.smith@example.com,Marketing,"$72,000.00",2021-11-01,234-56-7890,EMP002
+EMP003,Michael,Johnson,michael.j@example.com,Sales,"$68,000.00",2023-03-10,345-67-8901,EMP003
+EMP004,Emily,Davis,emily.davis@example.com,HR,"$65,000.00",2020-07-22,456-78-9012,EMP004
+EMP005,David,Wilson,david.wilson@example.com,Engineering,"$92,000.00",2019-05-18,567-89-0123,EMP005
+EMP006,Sarah,Brown,sarah.b@example.com,Finance,"$78,000.00",2022-09-05,678-90-1234,EMP006
+EMP007,James,Taylor,james.t@example.com,Engineering,"$88,000.00",2021-02-28,789-01-2345,EMP007
+EMP008,Jessica,Anderson,jessica.a@example.com,Marketing,"$75,000.00",2023-01-12,890-12-3456,EMP008
+EMP009,William,Thomas,william.t@example.com,Sales,"$71,000.00",2020-11-20,901-23-4567,EMP009
+EMP010,Ashley,Jackson,ashley.j@example.com,HR,"$62,000.00",2022-04-14,012-34-5678,EMP010
+EMP011,Robert,White,robert.w@example.com,Engineering,"$95,000.00",2018-08-30,111-22-3333,EMP011
+EMP012,Megan,Harris,megan.h@example.com,Finance,"$81,000.00",2021-06-17,222-33-4444,EMP012
+EMP013,Charles,Martin,charles.m@example.com,Sales,"$69,000.00",2023-05-25,333-44-5555,EMP013
+EMP014,Amanda,Thompson,amanda.t@example.com,Marketing,"$73,000.00",2022-10-08,444-55-6666,EMP014
+EMP015,Matthew,Garcia,matthew.g@example.com,Engineering,"$87,000.00",2020-12-01,555-66-7777,EMP015

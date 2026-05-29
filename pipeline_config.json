@@ -1,0 +1,15 @@
+{
+  "catalog":"csvfiles",
+  "schema":"default",
+  "input_path": "/Volumes/csvfiles/default/demovol",
+  "bronze_table": "bronze_table",
+  "silver_table": "silver_table",
+  "gold_agg_table": "gold_agg_table",
+  "gold_detail_table": "gold_detail_table",
+  "sensitive_columns": ["SSN","Salary"],
+  "business_partition_column": "hire_year",
+  "partition_columns": {
+    "bronze": "ingestion_date",
+    "silver": "processed_date"
+  }
+}
